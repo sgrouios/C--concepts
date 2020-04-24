@@ -1,0 +1,11 @@
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\StringSplit\StringSplit\bin\Debug\netcoreapp3.1\StringSplit.exe
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\StringSplit\StringSplit\bin\Debug\netcoreapp3.1\StringSplit.deps.json
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\StringSplit\StringSplit\bin\Debug\netcoreapp3.1\StringSplit.runtimeconfig.json
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\StringSplit\StringSplit\bin\Debug\netcoreapp3.1\StringSplit.runtimeconfig.dev.json
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\StringSplit\StringSplit\bin\Debug\netcoreapp3.1\StringSplit.dll
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\StringSplit\StringSplit\bin\Debug\netcoreapp3.1\StringSplit.pdb
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\StringSplit\StringSplit\obj\Debug\netcoreapp3.1\StringSplit.csprojAssemblyReference.cache
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\StringSplit\StringSplit\obj\Debug\netcoreapp3.1\StringSplit.AssemblyInfoInputs.cache
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\StringSplit\StringSplit\obj\Debug\netcoreapp3.1\StringSplit.AssemblyInfo.cs
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\StringSplit\StringSplit\obj\Debug\netcoreapp3.1\StringSplit.dll
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\StringSplit\StringSplit\obj\Debug\netcoreapp3.1\StringSplit.pdb
