@@ -1,0 +1,11 @@
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\GroupBy\GroupBy\bin\Debug\netcoreapp3.1\GroupBy.exe
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\GroupBy\GroupBy\bin\Debug\netcoreapp3.1\GroupBy.deps.json
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\GroupBy\GroupBy\bin\Debug\netcoreapp3.1\GroupBy.runtimeconfig.json
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\GroupBy\GroupBy\bin\Debug\netcoreapp3.1\GroupBy.runtimeconfig.dev.json
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\GroupBy\GroupBy\bin\Debug\netcoreapp3.1\GroupBy.dll
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\GroupBy\GroupBy\bin\Debug\netcoreapp3.1\GroupBy.pdb
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\GroupBy\GroupBy\obj\Debug\netcoreapp3.1\GroupBy.csprojAssemblyReference.cache
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\GroupBy\GroupBy\obj\Debug\netcoreapp3.1\GroupBy.AssemblyInfoInputs.cache
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\GroupBy\GroupBy\obj\Debug\netcoreapp3.1\GroupBy.AssemblyInfo.cs
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\GroupBy\GroupBy\obj\Debug\netcoreapp3.1\GroupBy.dll
+C:\Users\Stephen\OneDrive\Programming\VisualStudio\GroupBy\GroupBy\obj\Debug\netcoreapp3.1\GroupBy.pdb
